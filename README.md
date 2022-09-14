@@ -1,2 +1,1 @@
-# jes3-multibranchapp
-to analyse multibranch jenkins pipelines
+# team3-parallel
