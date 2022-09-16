@@ -20,7 +20,7 @@ pipeline{
                 }
                 stage('user-check1'){
                     steps{
-                        sh 'cat/etc/passwd | grep jenkins'
+                        sh 'lscpu'
                     }
                 }
             }
